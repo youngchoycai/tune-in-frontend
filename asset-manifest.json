@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/tune-in-frontend/static/css/main.92f36c4e.chunk.css",
-    "main.js": "/tune-in-frontend/static/js/main.75a3c15c.chunk.js",
-    "main.js.map": "/tune-in-frontend/static/js/main.75a3c15c.chunk.js.map",
+    "main.js": "/tune-in-frontend/static/js/main.f6a0204e.chunk.js",
+    "main.js.map": "/tune-in-frontend/static/js/main.f6a0204e.chunk.js.map",
     "runtime-main.js": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js",
     "runtime-main.js.map": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js.map",
     "static/css/2.d517ec5a.chunk.css": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css",
-    "static/js/2.3139483a.chunk.js": "/tune-in-frontend/static/js/2.3139483a.chunk.js",
-    "static/js/2.3139483a.chunk.js.map": "/tune-in-frontend/static/js/2.3139483a.chunk.js.map",
+    "static/js/2.26ec7f6a.chunk.js": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js",
+    "static/js/2.26ec7f6a.chunk.js.map": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js.map",
     "index.html": "/tune-in-frontend/index.html",
-    "precache-manifest.22d4c168c8dbd0cb4f4a35b106cb1a08.js": "/tune-in-frontend/precache-manifest.22d4c168c8dbd0cb4f4a35b106cb1a08.js",
+    "precache-manifest.a057ae8949890fc111307d751e907e6e.js": "/tune-in-frontend/precache-manifest.a057ae8949890fc111307d751e907e6e.js",
     "service-worker.js": "/tune-in-frontend/service-worker.js",
     "static/css/2.d517ec5a.chunk.css.map": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css.map",
     "static/css/main.92f36c4e.chunk.css.map": "/tune-in-frontend/static/css/main.92f36c4e.chunk.css.map",
-    "static/js/2.3139483a.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.3139483a.chunk.js.LICENSE.txt",
+    "static/js/2.26ec7f6a.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js.LICENSE.txt",
     "static/media/blk-design-system-react.scss": "/tune-in-frontend/static/media/square5.ff004a0e.png",
     "static/media/font-awesome.min.css": "/tune-in-frontend/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/nucleo-icons.css": "/tune-in-frontend/static/media/nucleo.f0b489a5.woff"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.d1f28b52.js",
     "static/css/2.d517ec5a.chunk.css",
-    "static/js/2.3139483a.chunk.js",
+    "static/js/2.26ec7f6a.chunk.js",
     "static/css/main.92f36c4e.chunk.css",
-    "static/js/main.75a3c15c.chunk.js"
+    "static/js/main.f6a0204e.chunk.js"
   ]
 }
