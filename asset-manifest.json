@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tune-in-frontend/static/css/main.92f36c4e.chunk.css",
+    "main.js": "/tune-in-frontend/static/js/main.cad83ff2.chunk.js",
+    "main.js.map": "/tune-in-frontend/static/js/main.cad83ff2.chunk.js.map",
+    "runtime-main.js": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js",
+    "runtime-main.js.map": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js.map",
+    "static/css/2.d517ec5a.chunk.css": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css",
+    "static/js/2.b212a69c.chunk.js": "/tune-in-frontend/static/js/2.b212a69c.chunk.js",
+    "static/js/2.b212a69c.chunk.js.map": "/tune-in-frontend/static/js/2.b212a69c.chunk.js.map",
+    "index.html": "/tune-in-frontend/index.html",
+    "precache-manifest.5396ecb0e91e3c6eeb3a9bedc11b8410.js": "/tune-in-frontend/precache-manifest.5396ecb0e91e3c6eeb3a9bedc11b8410.js",
+    "service-worker.js": "/tune-in-frontend/service-worker.js",
+    "static/css/2.d517ec5a.chunk.css.map": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css.map",
+    "static/css/main.92f36c4e.chunk.css.map": "/tune-in-frontend/static/css/main.92f36c4e.chunk.css.map",
+    "static/js/2.b212a69c.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.b212a69c.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss": "/tune-in-frontend/static/media/square5.ff004a0e.png",
+    "static/media/font-awesome.min.css": "/tune-in-frontend/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/nucleo-icons.css": "/tune-in-frontend/static/media/nucleo.f0b489a5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1f28b52.js",
+    "static/css/2.d517ec5a.chunk.css",
+    "static/js/2.b212a69c.chunk.js",
+    "static/css/main.92f36c4e.chunk.css",
+    "static/js/main.cad83ff2.chunk.js"
+  ]
+}
