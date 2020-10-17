@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tune-in-frontend/static/css/main.92f36c4e.chunk.css",
-    "main.js": "/tune-in-frontend/static/js/main.9fab1079.chunk.js",
-    "main.js.map": "/tune-in-frontend/static/js/main.9fab1079.chunk.js.map",
+    "main.css": "/tune-in-frontend/static/css/main.fc2b0c0a.chunk.css",
+    "main.js": "/tune-in-frontend/static/js/main.90a17bc7.chunk.js",
+    "main.js.map": "/tune-in-frontend/static/js/main.90a17bc7.chunk.js.map",
     "runtime-main.js": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js",
     "runtime-main.js.map": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js.map",
     "static/css/2.d517ec5a.chunk.css": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css",
-    "static/js/2.3139483a.chunk.js": "/tune-in-frontend/static/js/2.3139483a.chunk.js",
-    "static/js/2.3139483a.chunk.js.map": "/tune-in-frontend/static/js/2.3139483a.chunk.js.map",
+    "static/js/2.26ec7f6a.chunk.js": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js",
+    "static/js/2.26ec7f6a.chunk.js.map": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js.map",
     "index.html": "/tune-in-frontend/index.html",
-    "precache-manifest.66aa77785d8e099213ca8ec659880f38.js": "/tune-in-frontend/precache-manifest.66aa77785d8e099213ca8ec659880f38.js",
+    "precache-manifest.c923d27919f5b1d2f93b43bd083d4282.js": "/tune-in-frontend/precache-manifest.c923d27919f5b1d2f93b43bd083d4282.js",
     "service-worker.js": "/tune-in-frontend/service-worker.js",
     "static/css/2.d517ec5a.chunk.css.map": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css.map",
-    "static/css/main.92f36c4e.chunk.css.map": "/tune-in-frontend/static/css/main.92f36c4e.chunk.css.map",
-    "static/js/2.3139483a.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.3139483a.chunk.js.LICENSE.txt",
+    "static/css/main.fc2b0c0a.chunk.css.map": "/tune-in-frontend/static/css/main.fc2b0c0a.chunk.css.map",
+    "static/js/2.26ec7f6a.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js.LICENSE.txt",
     "static/media/blk-design-system-react.scss": "/tune-in-frontend/static/media/square5.ff004a0e.png",
     "static/media/font-awesome.min.css": "/tune-in-frontend/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/nucleo-icons.css": "/tune-in-frontend/static/media/nucleo.f0b489a5.woff"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.d1f28b52.js",
     "static/css/2.d517ec5a.chunk.css",
-    "static/js/2.3139483a.chunk.js",
-    "static/css/main.92f36c4e.chunk.css",
-    "static/js/main.9fab1079.chunk.js"
+    "static/js/2.26ec7f6a.chunk.js",
+    "static/css/main.fc2b0c0a.chunk.css",
+    "static/js/main.90a17bc7.chunk.js"
   ]
 }
