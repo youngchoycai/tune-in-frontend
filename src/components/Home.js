@@ -24,7 +24,7 @@ export default class Home extends Component {
                 <div class="login"> <LoginButton location={this.props.location} msg="Log into Spotify!!"/> </div>
               </div>
             <footer><p>Created by:   
-              <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/alden-liu-12212b12a/">Alden Liu</a> 
+              <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/alden-liu-12212b12a/">Alden Liu</a>, 
               <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/david-bao/">David Bao</a>,
               <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/drakewong/">Drake Wong</a>,
               <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/vincent-ngo/">Vincent Ngo</a>,
