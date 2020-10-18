@@ -198,6 +198,7 @@ class Dashboard extends Component {
               }/> : <span><h1>{this.state.findPartyResponse}</h1></span>}
 
             <footer><p>Created by:   
+                <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/alden-liu-12212b12a/">Alden Liu</a> 
                 <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/david-bao/">David Bao</a>,
                 <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/drakewong/">Drake Wong</a>,
                 <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/vincent-ngo/">Vincent Ngo</a>,
