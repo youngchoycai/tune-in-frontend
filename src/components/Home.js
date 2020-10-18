@@ -23,8 +23,8 @@ export default class Home extends Component {
                 <h3 class="explanation">To get started, log into your Spotify account! We use a special algorithm to make sure you and your friends' taste in music is represented in the generated playlist. </h3>
                 <div class="login"> <LoginButton location={this.props.location} msg="Log into Spotify!!"/> </div>
               </div>
-            <footer><p>Created by:
-              <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/alden-liu-12212b12a/">Alden Liu</a></p>   
+            <footer><p>Created by:   
+              <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/alden-liu-12212b12a/">Alden Liu</a> 
               <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/david-bao/">David Bao</a>,
               <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/drakewong/">Drake Wong</a>,
               <a className="credit" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/vincent-ngo/">Vincent Ngo</a>,
