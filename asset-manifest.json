@@ -6,14 +6,14 @@
     "runtime-main.js": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js",
     "runtime-main.js.map": "/tune-in-frontend/static/js/runtime-main.d1f28b52.js.map",
     "static/css/2.d517ec5a.chunk.css": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css",
-    "static/js/2.26ec7f6a.chunk.js": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js",
-    "static/js/2.26ec7f6a.chunk.js.map": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js.map",
+    "static/js/2.1c29db14.chunk.js": "/tune-in-frontend/static/js/2.1c29db14.chunk.js",
+    "static/js/2.1c29db14.chunk.js.map": "/tune-in-frontend/static/js/2.1c29db14.chunk.js.map",
     "index.html": "/tune-in-frontend/index.html",
-    "precache-manifest.a448b73ead887925943420c53e681ac0.js": "/tune-in-frontend/precache-manifest.a448b73ead887925943420c53e681ac0.js",
+    "precache-manifest.c9903009d80b05da9cd5d7bb45b874b8.js": "/tune-in-frontend/precache-manifest.c9903009d80b05da9cd5d7bb45b874b8.js",
     "service-worker.js": "/tune-in-frontend/service-worker.js",
     "static/css/2.d517ec5a.chunk.css.map": "/tune-in-frontend/static/css/2.d517ec5a.chunk.css.map",
     "static/css/main.7a4421b1.chunk.css.map": "/tune-in-frontend/static/css/main.7a4421b1.chunk.css.map",
-    "static/js/2.26ec7f6a.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.26ec7f6a.chunk.js.LICENSE.txt",
+    "static/js/2.1c29db14.chunk.js.LICENSE.txt": "/tune-in-frontend/static/js/2.1c29db14.chunk.js.LICENSE.txt",
     "static/media/blk-design-system-react.scss": "/tune-in-frontend/static/media/square5.ff004a0e.png",
     "static/media/font-awesome.min.css": "/tune-in-frontend/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/nucleo-icons.css": "/tune-in-frontend/static/media/nucleo.f0b489a5.woff"
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.d1f28b52.js",
     "static/css/2.d517ec5a.chunk.css",
-    "static/js/2.26ec7f6a.chunk.js",
+    "static/js/2.1c29db14.chunk.js",
     "static/css/main.7a4421b1.chunk.css",
     "static/js/main.64f54cf5.chunk.js"
   ]
